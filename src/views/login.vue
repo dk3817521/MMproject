@@ -1,13 +1,12 @@
 <template>
   <div>
-    <router-view></router-view>
+      login
   </div>
 </template>
 
 <script>
-
 export default {
-  
+
 }
 </script>
 
